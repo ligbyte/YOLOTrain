@@ -1,5 +1,9 @@
 # YOLOv5 训练结果分析
 
+![YOLOv5 训练结果](https://raw.githubusercontent.com/ligbyte/YOLOTrain/main/results.png)
+
+
+
 ## 1. 训练损失 (Training Loss)
 
 ### 1.1 train/box_loss（训练框损失）  
